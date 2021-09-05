@@ -1,0 +1,14 @@
+/*-----------------------------------------------notes----------------------------------------
+1. style sheet work up to down 
+2. Sass is the most mature ,stable , and powerful professional grade
+css extension language.
+3. some property might not work for the browser here the css create for us
+4.  Couple of Feasters  listed our here.
+        - Variable  Creations. syntax ($name)
+        - Nested css call we use life child element not need to specify separately.
+        - also add(&:name) you'll get hover method on the current place.
+        - suppurate code in to multiple part  (@import ' name').
+        -creating functions like a class we can use where we want also can add parameters.(@mixin name($name))(@include name(value)).
+        - add one element property to another element using (@extend name) .
+        - calculate operators also can we use like (+,-,%,*) like (50%-20%)
+*/
